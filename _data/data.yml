@@ -7,47 +7,43 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Niceta Nduku
+    tagline: Junior Software Engineer
+    avatar: SYLVIA_0575-1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: nduku.niceta@gmail.com
+    website: niceta-nduku.github.io #do not add http://
+    linkedin: niceta-nduku
+    github: Niceta-Nduku
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    medium: 
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Kiswahili
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Gardening
         link:
 
       - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -56,66 +52,73 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Engineering - Electrical and Computer Engineering
+      university: University of Cape Town
+      logo: 
+      time: March 2017 - December 2020
+      grade: 74.4 (Honours)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        
+    - degree: IGCSE - A level
+      university: Rusinga School Nairobi
+      logo: 
+      time: 2012 - 2016
+      grade: A
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Computer Science Tutor
+      time: February 2020- November 2020
+      company: University of Cape Town
+      location: Cape Town, South Africa
+      logo: UCT_logo1.jpg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Tutored second year computer science courses:
+          - Data Structures and Databases (CSC2001)
+          - Parallel programming, Architecture and Mobile Software Development (CSC2002)
+        Marked and grades assignemts, reports and tests. 
+        
+    - role: Software Engineer Intern
+      time: November 2019 – January 2020
+      company: Cellulant
+      location: Nairobi, Kenya
+      logo: cellulant.jpg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Was part of the team that worked on the Tingg Checkout platform.
+        My task was to design and build a service that would be added into the checkout platform. I worked closely with the front-end and other back-end developers in the team, as well as QA to achieve this.  
+        In adition to developing, I took part in the team's standups, code and design review sessions.
+            
+    - role: Orientation leaderappliation
+      time: January 2019- February 2019
+      company: University of Cape Town
+      location: Nairobi, Kenya
+      logo: UCT_logo1.jpg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Guided first years through their transition into university by
+        - Taking them through workshops that prepare them for some of their experiences in their first year.
+        - Assisting them with registration and administration processes
+        - Created a cheerful experience during their orientation.
+
+    - role: Electrical Lab Intern
+      time: December 2017- January 2018
+      company: Kenya Bureau of Standards
+      location: Nairobi, Kenya
+      logo: Kebs.jpg
+      details: |
+        Received practical training in the electrical field at a government facility.
+        My work involved checking the standards for the tests to be performed, planned the tests and run them on the different devices.
+        I also worked in the time, instrumentation and DC labs where I calibrated various measurement devices such as multimeters and repaired machines.
+
+leadership:
+    title: Leadership &amp; Mentorship
+    description:
+    role: 
+    time:
+    details: |
+
+volunteer:
+    
+        
 projects:
     title: Projects
     intro: >
@@ -143,49 +146,25 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+publications: #
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level:
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50% 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C++
+        level:
 
-      - name: Sketch & Photoshop
-        level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
